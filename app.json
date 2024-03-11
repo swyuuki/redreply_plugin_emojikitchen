@@ -1,0 +1,7 @@
+{
+	"name":"动漫查询",
+	"description":"用于根据图片查询动漫名和角色名",
+	"author":"super1207",
+	"version":"0.0.1",
+	"need_python":false
+}
