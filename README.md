@@ -10,4 +10,6 @@
 
 ![alt text](image-1.png)
 
+如果`#动漫查询`查不出来，可以试试`#游戏查询`。
+
 感谢：https://ai.animedb.cn 提供接口
