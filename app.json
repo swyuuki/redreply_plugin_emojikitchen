@@ -2,6 +2,6 @@
 	"name":"emoji合成",
 	"description":"把两个emoji合成一张画(至少需要红色问答0.0.72才可使用，必须已经安装python)",
 	"author":"swyuuki",
-	"version":"0.0.1",
+	"version":"0.0.2",
 	"need_python":true
 }
